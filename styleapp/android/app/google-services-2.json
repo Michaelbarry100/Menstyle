@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233086636926",
+    "project_id": "afristyle-men",
+    "storage_bucket": "afristyle-men.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233086636926:android:f33b82ef168a3e6c21d92f",
+        "android_client_info": {
+          "package_name": "com.example.styleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnOvXOhIJuLHDWuvrAHYwRAPTp3ZoBWNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

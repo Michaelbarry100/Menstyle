@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867518817485",
+    "project_id": "africstyle-men",
+    "storage_bucket": "africstyle-men.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867518817485:android:51c5b601110f09c0e47584",
+        "android_client_info": {
+          "package_name": "niigeria.men.fashion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArsJ9EdUuRVb-SUFBVIKO8y90QfcHNf-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
